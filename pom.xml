@@ -12,7 +12,7 @@
 	<artifactId>Sistema-Cantina</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<name>Sistema-Cantina</name>
-	<description>Demo project for Spring Boot</description>
+	<description>Sistema de Cadastro e venda de produtos de Cantina</description>
 	<url/>
 	<licenses>
 		<license/>
